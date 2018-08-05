@@ -1,10 +1,7 @@
 # autoTest
 interfaceTest、webTest and UiTest
 
-!.gitignore
-
-/.idea/
-
-/testDemo/
-
-*.html
+  !.gitignore
+  /.idea/
+  /testDemo/
+  *.html
